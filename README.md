@@ -7,4 +7,4 @@
 complete
 1) change from procedural to oop program
 2) add more function to ask user how many do you want?
-3) complete basic choice 1-3 for select to draw
+3) complete basic choice 1-7 for select to draw
